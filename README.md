@@ -1,11 +1,10 @@
 # GesturalAI
 
 ## 📌 About
-In this project we created a application that classifies the sign language to english letters.
-
+Sign Language Recognition using Machine and Deep Learning 
 
 ## 🎯 Key Features
-* Classify the American Sign Language to english letters in real time by taking video input from the user
+* Classifies the American Sign Language to english letters in real time by taking video input using webcam
 
 ## 💻 Development Process
 ### Various Techniques/Models Used
