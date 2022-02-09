@@ -64,5 +64,6 @@ Sign Language Recognition using Machine and Deep Learning
 ![ASL characters](https://github.com/utsavk28/Nerds/blob/main/images/ASL%20characters.png?raw=true)
 
 ## 📸 Results
+[Demo link](https://drive.google.com/file/d/1fnvth9yvdqxfQwjWF4ndmoNUYqWJ0Pfh/view?usp=sharing)
 
 ## 🌐 Conclusion
