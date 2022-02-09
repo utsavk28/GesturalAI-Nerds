@@ -41,7 +41,7 @@ def generate_frames():
     while True:
 
         # read the camera frame
-        success, frame = camera.read()
+        success, frame = cap.read()
         if not success:
             break
         else:
