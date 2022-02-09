@@ -9,10 +9,10 @@ Sign Language Recognition using Machine and Deep Learning
 ## 💻 Development Process
 ### Various Techniques/Models Used
 
-* I3D Transfer Learning : We worked on classifying most common words in English from sign language. For this, we used the WLASL dataset and fine tuned the I3D model which was pretrained on the Kinetics-400 dataset
-* CNN + RNN with self made dataset : We Created our own small dataset for 10 common words. Each word had 30 videos of 30 frames. Here we extracted the landmarks of pose, left hand and right hand using mediapipe holistic model. And used those landmarks of the frames for training the RNN model. This Model works accurately for the person who trained but the accuracy drops for the other persons 
-* Transfer Learning with Resnet & Mobilnet : Trained on ASL dataset (consisting of sign languages of A-Z letters and some special characters like SPACE, DELETE and NOTHING). Predicts accurately on the training, validation and testing dataset but the accuracy drops in production
-* MediaPipe Feature Extraction + Machine Learning Algorithms : Using MediaPipe's Hand Model , features are extracted and engineered. Those are fed to machine learning model and are used to predict the labels
+* **I3D Transfer Learning** : We worked on classifying most common words in English from sign language. For this, we used the WLASL dataset and fine tuned the I3D model which was pretrained on the Kinetics-400 dataset
+* **CNN + RNN with self made dataset** : We Created our own small dataset for 10 common words. Each word had 30 videos of 30 frames. Here we extracted the landmarks of pose, left hand and right hand using mediapipe holistic model. And used those landmarks of the frames for training the RNN model. This Model works accurately for the person who trained but the accuracy drops for the other persons 
+* **Transfer Learning with Resnet & Mobilnet** : Trained on ASL dataset (consisting of sign languages of A-Z letters and some special characters like SPACE, DELETE and NOTHING). Predicts accurately on the training, validation and testing dataset but the accuracy drops in production
+* **MediaPipe Feature Extraction + Machine Learning Algorithms** : Using MediaPipe's Hand Model , features are extracted and engineered. Those are fed to machine learning model and are used to predict the labels
 
 ### Datasets used
 * [WLASL video dataset](https://dxli94.github.io/WLASL/)
