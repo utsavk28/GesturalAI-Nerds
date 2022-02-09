@@ -12,6 +12,10 @@ In this project we created a application that classifies the sign language to en
 
 ## 💻 Development Process
 
+* First we worked on classifying most common words in English from sign language. For this, we used the WLASL dataset and fine tuned the I3D model which was pretrained on the Kinetics-400 dataset
+* Then we created our own small dataset for 10 common words. Each word had 30 videos of 30 frames. Then we extracted the landmarks of pose, left hand and right hand using mediapipe holistic model. And then use the landmarks of the frames for training the RNN model. This model has very less accuracy. 
+* We then trained different models on ASL dataset (consisting of sign languages of A-Z letters and some special characters like SPACE, DELETE and NOTHING). This model was finally used in our project
+
 ### Datasets used
 * [WLASL video dataset](https://dxli94.github.io/WLASL/)
   * WLASL is the largest video dataset for Word-Level American Sign Language (ASL) recognition
