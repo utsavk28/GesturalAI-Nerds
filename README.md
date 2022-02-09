@@ -3,9 +3,6 @@
 ## 📌 About
 In this project we created a application that classifies the sign language to english letters.
 
-## Group members
-- [Utsav Khatu](https://github.com/utsavk28)
-- [Tushar Bauskar](https://github.com/tusharsb-12)
 
 ## 🎯 Key Features
 * Classify the American Sign Language to english letters in real time by taking video input from the user
@@ -57,9 +54,13 @@ In this project we created a application that classifies the sign language to en
 ```
 4. Run the app
 ```
- $ cd webapp
- $ python app.py
+ $ python main.py
 ```
+
+## Group members
+- [Utsav Khatu](https://github.com/utsavk28)
+- [Tushar Bauskar](https://github.com/tusharsb-12)
+
 ## 📸 Results
 
 ## 🌐 Conclusion
