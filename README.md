@@ -1,6 +1,6 @@
 # GesturalAI
 
-#### Note: This is a rough Readme , this Readme will be updated soon with all the details
+<!-- #### Note: This is a rough Readme , this Readme will be updated soon with all the details -->
 
 ## 📌 About
 Sign Language Recognition using Machine and Deep Learning 
