@@ -71,5 +71,5 @@ Sign Language Recognition using Machine and Deep Learning
 
 ## 📸 Results
 [Demo link](https://drive.google.com/file/d/1fnvth9yvdqxfQwjWF4ndmoNUYqWJ0Pfh/view?usp=sharing)
-
-## 🌐 Conclusion
+<!-- 
+## 🌐 Conclusion -->
