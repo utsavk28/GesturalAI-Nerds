@@ -4,7 +4,7 @@
  <img src='https://github.com/utsavk28/GesturalAI-Nerds/blob/main/images/gesturalai-demo.gif' />
  </div>
  
-![Full Demo](https://drive.google.com/file/d/1fnvth9yvdqxfQwjWF4ndmoNUYqWJ0Pfh/view?usp=sharing)
+[Full Demo](https://drive.google.com/file/d/1fnvth9yvdqxfQwjWF4ndmoNUYqWJ0Pfh/view?usp=sharing)
 <!-- #### Note: This is a rough Readme , this Readme will be updated soon with all the details -->
 
 ## 📌 About
